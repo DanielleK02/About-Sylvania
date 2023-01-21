@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>What Goes on in Sylvania - Add Title Here
+</title>
+<!-- TemplateEndEditable -->
+<!-- Bootstrap -->
+	<link href="../css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+	<link href="../style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+		<meta name="description" content="What Goes on in Sylvania - add description here">
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="container">
+  <header class="row">
+    <div class="col-sm-12">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="#"> <img src="../img/logo.png"/></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item"> <a class="nav-link" href="../index.html">Home</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="../about.html">About</a> </li>
+			   <li class="nav-item"> <a class="nav-link" href="../events.html">Events</a> </li>
+		    <li class="nav-item"> <a class="nav-link" href="../history.html">History</a> </li>
+          </ul>
+</div>
+      </nav>
+    </div>
+  </header>
+  <!-- TemplateBeginEditable name="main_content" -->
+  <main class="row">
+    <article class="col-sm-8">
+      <h1>Insert heading here</h1>
+      <h3>Insert subheading here</h3>
+    </article>
+    <aside class="col-sm-4">Content goes here</aside>
+  </main>
+ <!-- TemplateEndEditable --> 
+  <footer class="row" id="footer">
+    <div class="col-sm-4">
+	<div></div>
+	</div>
+	  <div class="col-sm-4">
+	<div>
+		<p>City of Trees</p>
+		<p>419.885.TREE(8733)</p>
+	</div>
+	</div>
+	  <div class="col-sm-4">
+	<div></div>
+	</div>
+  </footer>
+ 
+</div>
+<script src="../js/jquery-3.4.1.min.js"></script>
+<script src="../js/popper.min.js"></script>
+<script src="../js/bootstrap-4.4.1.js"></script>
+</body>
+</html>

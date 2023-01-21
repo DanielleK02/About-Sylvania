@@ -1,0 +1,225 @@
+@charset "utf-8";
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand img {
+    width: 140px;
+    height: 75px;
+}
+h1  {
+    text-align: center;
+    font-family: "Monotype Corsiva";
+    font-weight: bolder;
+    letter-spacing: 7px;
+    margin-top: 40px;
+}
+
+h3 {
+    text-align: center;
+    font-weight: lighter;
+    font-family: Bahnschrift;
+}
+
+.container #titles .col-4 {
+    font-style: oblique;
+    font-weight: bold;
+    font-family: "Lucida Calligraphy";
+    padding-top: 0px;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: large;
+}
+.container #tablecontent .col-4 {
+    font-family: Candara;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.container #tablecontent2 .col-4 {
+    font-family: Candara;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.col-sm-12 #wasterecycle .row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container #tablecontent3 .col-4 {
+    font-family: Candara;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container #tablecontent4 .col-4 {
+    font-family: Candara;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container #tablecontent5 .col-4 {
+    font-family: Candara;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container #tablecontent6 .col-4 {
+    font-family: Candara;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.col-4  img  {
+    width: 350px;
+    height: 125px;
+    margin-top: 100px;
+}
+
+
+.container   {
+    font-family: Candara;
+    margin-top: 50px;
+}
+.row .col-8 h3 {
+    margin-top: 17px;
+}
+.row .col-sm-12 .navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+
+
+
+.container   {
+}
+.row .col-4 p {
+    text-align: center;
+    margin-top: 15px;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 .navbar-nav.mr-auto {
+    margin-left: 250px;
+    font-weight: bolder;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: large;
+
+
+
+}
+.container #footer {
+    text-align: center;
+    margin-top: 100px;
+}
+.row #aside img {
+    width: 157px;
+    height: 200px;
+    margin-left: 100px;
+}
+.row #aside p {
+    text-align: center;
+    margin-top: 10px;
+}
+.row #aside img {
+    margin-top: 5px;
+    width: 164px;
+}
+
+.row #aside h5 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: "Rockwell Condensed";
+    margin-top: 100px;
+}
+.row .col-sm-4 h5 {
+    font-family: "Yu Gothic";
+    color: rgba(11,109,18,1.00);
+    font-weight: bolder;
+    text-decoration: overline;
+    margin-top: 29px;
+}
+.row .col-sm-4 h5 {
+}
+
+.row .col-sm-12 mg {
+    height: 173px;
+    width: 747px;
+}
+.col-sm-12 div img {
+    width: 1000px;
+    height: 220px;
+
+}
+.row .col-sm-12 #img {
+    text-align: center;
+    margin-top: 22px;
+}
+.col-sm-12 #wasterecycle #titles {
+    text-align: left;
+    font-weight: bolder;
+    font-family: "Lucida Calligraphy";
+    font-variant: small-caps;
+    font-size: large;
+}
+.col-sm-12 #wasterecycle h3 {
+    margin-top: 60px;
+    color: rgba(11,109,18,1.00);
+    font-family: "Rockwell Condensed";
+    letter-spacing: 4px;
+    font-variant: small-caps;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.col-sm-12 #wasterecycle p {
+    text-align: center;
+    font-size: large;
+}
+.col-sm-12 #wasterecycle p {
+    margin-top: 17px;
+}
+.row .col-sm-4 h5 {
+    text-align: center;
+}
+.row .col-sm-4 img {
+    width: 340px;
+    height: 125px;
+    margin-top: 45px;
+}
+.row #aside #town {
+    width: 345px;
+    height: 128px;
+    margin-left: 0px;
+    margin-top: 70px;
+}
+
+.row .col-sm-4 #imgdes {
+    margin-top: 0px;
+}
+.row .col-sm-8 p {
+    margin-top: 31px;
+    font-size: large;
+}
+
+
+
+.row .col-sm-4 p {
+    margin-top: 47px;
+}
+
+
+
+
+.row .col-sm-8 h3 {
+    color: rgba(11,109,18,1.00);
+    font-family: "Rockwell Condensed";
+    text-decoration: overline;
+    text-align: left;
+    letter-spacing: 3px;
+    margin-top: 50px;
+}
+.row #aside {
+    background-color: rgba(190,255,226,0.50);
+    border-style: groove;
+    border-color: rgba(50,255,0,0.26);
+}
+
+.row #aside  {
+}
+.row .col-sm-12 #top {
+    margin-left: 500px;
+
+}
